@@ -1,0 +1,21 @@
+{
+    "num_queries": 1,
+    "use_templates": false,
+    "use_amber": false,
+    "msa_mode": "MMseqs2 (UniRef+Environmental)",
+    "model_type": "AlphaFold2-ptm",
+    "num_models": 1,
+    "num_recycles": 3,
+    "model_order": [
+        1
+    ],
+    "keep_existing_results": false,
+    "rank_by": "plddt",
+    "pair_mode": "unpaired+paired",
+    "host_url": "https://api.colabfold.com",
+    "stop_at_score": 90,
+    "recompile_padding": 1.1,
+    "recompile_all_models": false,
+    "commit": "7e9952e15e38450d723b77fdc44b433fc6dee66b",
+    "version": "1.2.0"
+}
