@@ -1,5 +1,7 @@
 # Glycoprotein prediction with AlphaFold2
 
+![header](images/header.png)
+
 ## Table of Contents
 * [General Overview](#General-Overview)
 * [Prerequisites](#Prerequisites)
